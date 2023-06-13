@@ -1,3 +1,8 @@
 # hello-world
-Learning the github Repo process 06 Nov 2011 01:15 Z Toronto ONT CAN
-Im trying to grasp the revision concept. this line added 01:22 Z
+Learning the github Repo process with ore precise figuring. Last touch: 12 Jun 2023 
+
+In good old Toronto ONT CAN
+
+Im trying to grasp the revision concept built into the thing, sure sure.
+
+Document end
